@@ -20,4 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babarkhann&show_icons=true&locale=en" alt="babarkhann" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babarkhann&" alt="babarkhann" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BabarKhann&theme=dark)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BabarKhann&" alt="babarkhann" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BabarKhann&theme=dark" alt="GitHub Streak" /></a>
