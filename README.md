@@ -19,7 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babarkhann&show_icons=true&locale=en&layout=compact" alt="babarkhann" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babarkhann&show_icons=true&locale=en" alt="babarkhann" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BabarKhann&theme=dark)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BabarKhann&" alt="babarkhann" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BabarKhann&theme=dark" alt="GitHub Streak" /></a>
